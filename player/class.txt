@@ -1,0 +1,4 @@
+[types]
+armor
+[prefix]
+[suffix]

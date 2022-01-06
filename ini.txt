@@ -1,0 +1,14 @@
+name=ffxffffffffffff
+class=f
+head=ff
+invintory=ffxffff
+255 slots x 65535 items
+
+quallity 1-15
+
+item Visual best to worse (red,gree,blue, white)
+[class][perstige(0-4)][rank(255-0)][quality(255-0)]
+[ffff] [ff][ff][ff]
+
+
+
